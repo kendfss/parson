@@ -1,0 +1,2426 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, March 8, 2017
+
+
+
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+Devlin makes a pilgrimage to Pisa to see the
+statue of
+
+Leonardo Fibonacci in 2002.
+
+In 1983, I did something that would turn out to have a significant influence on the
+
+direction my career would take. Frustrated by the lack of coverage of mathematics in
+
+the weekly science section of my newspaper of choice, The Guardian, I wrote a short
+
+article about mathematics and sent it to the science editor. A few days later, the editor
+
+phoned me to explain why he could not to publish it. “But,” he said, “I like your style.
+
+You seem to have a real knack for explaining difficult ideas in a way ordinary people
+
+can understand.” He encouraged me to try again, and my second attempt was
+
+published in the newspaper on May 12, 1983. Several more pieces also made it into
+
+print over the next few months, eliciting some appreciative letters to the editor. As a
+
+result, when The Guardian launched a weekly, personal computing page later that year,
+
+it included my new, twice-monthly column MicroMaths. The column ran without
+
+interruption until 1989, when my two-year visit to Stanford University in California turned
+
+into a permanent move to the US.
+
+Before long, a major publisher contracted me to publish a collection of my MicroMaths
+
+articles, which I did, and following that Penguin asked me to write a more substantial
+
+book on mathematics for a general audience. That book, Mathematics: The NewGolden Age, was first published in 1987, the year I moved to America.
+
+
+In addition to writing for a general audience, I began to give lectures to lay audiences,
+
+and started to make occasional appearances on radio and television. From 1991 to
+
+1997, I edited MAA FOCUS, the monthly magazine of the Mathematical Association of
+
+America, and since January 1996 I have written this monthly Devlin’s Angle column. In
+
+1994, I also became the NPR Math Guy, as I describe in my latest article in the
+
+Huffington Post.
+
+
+Each new step I took into the world of “science outreach” brought me further pleasure,
+
+as more and more people came up to me after a talk or wrote or emailed me after
+
+reading an article I had written or hearing me on the radio. They would tell me they
+
+found my words inspiring, challenging, thought-provoking, or enjoyable. Parents,
+
+teachers, housewives, business people, and retired people would thank me for
+
+awakening in them an interest and a new appreciation of a subject they had long ago
+
+given up as being either dull and boring or else beyond their understanding. I came to
+
+realize that I was touching people’s lives, opening their eyes to the marvelous world of
+
+mathematics.
+
+
+None of this was planned. I had become a “mathematics expositor” by accident. Only
+
+after I realized I had been born with a talent that others appreciated—and which by all
+
+appearances is fairly rare—did I start to work on developing and improving my “gift.”
+
+In taking mathematical ideas developed by others and explaining them in a way that the
+
+layperson can understand, I was following in the footsteps of others who had also made
+
+efforts to organize and communicate mathematical ideas to people outside the
+
+discipline. Among that very tiny subgroup of mathematics communicators, the two who I
+
+regarded as the greatest and most influential mathematical expositors of all time are
+
+Euclid and Leonardo Fibonacci. Each wrote a mammoth book that influenced the way
+
+mathematics developed, and with it society as a whole.
+
+
+Euclid’s classic work Elements presented ancient Greek geometry and number theory in
+
+such a well-organized and understandable way that even today some instructors use it
+
+as a textbook. It is not known if any of the results or proofs Euclid describes in the book
+
+are his, although it is reasonable to assume that some are, maybe even many. What
+
+makes Elements such a great and hugely influential work, however, is the way Euclid
+
+organized and presented the material. He made such a good job of it that his text has
+
+formed the basis of school geometry teaching ever since. Present day high school
+
+geometry texts still follow Elements fairly closely, and translations of the original remain
+
+in print.
+
+
+With geometry being an obligatory part of the school mathematics curriculum until a few
+
+years ago, most people have been exposed to Euclid’s teaching during their childhood,
+
+and many recognize his name and that of his great book. In contrast, Leonardo of Pisa
+
+(aka Fibonnaci) and his book Liber abbaci are much less well known. Yet their impact
+
+on present-day life is far greater. Liber abbaci was the first comprehensive book on
+
+modern practical arithmetic in the western world. While few of us ever use geometry,
+
+people all over the world make daily use of the methods of arithmetic that Leonardo
+
+described in Liber abbaci.
+
+
+In contrast to the widespread availability of the original Euclid’s Elements, the only
+
+version of Leonardo’s Liber abbaci we can read today is a second edition he completed
+
+in 1228, not his original 1202 text. Moreover, there is just one translation from the
+
+original Latin, in English, published as recently as 2002.
+
+
+But for all its rarity, Liber abbaci is an impressive work. Although its great fame rests on
+
+its treatment of Hindu-Arabic arithmetic, it is a mathematically solid book that covers not
+
+just arithmetic, but the beginnings of algebra and some applied mathematics, all firmly
+
+based on the theoretical foundations of Euclid’s mathematics.
+
+
+After completing the first edition of Liber abbaci, Leonardo wrote several other
+
+mathematics books, his writing making him something of a celebrity throughout
+
+Italy—on one occasion he was summonsed to an audience with the Emperor Frederick
+
+II. Yet very little was written about his life.
+
+
+In 2001, I decided to embark on a quest to try to collect together what little was known
+
+about him and bring his story to a wider audience. My motivation? I saw in Leonardo
+
+someone who, like me, devoted a lot of time and effort trying to make the mathematics
+
+of the day accessible to the world at large. (Known today as “mathematical outreach,”
+
+very few mathematicians engage in that activity.) He was the giant whose footsteps I
+
+had been following.
+
+
+I was not at all sure I could succeed. Over the years, I had built up a good reputation as
+
+an expositor of mathematics, but a book on Leonardo would be something new. I would
+
+have to become something of an archival scholar, trying to make sense of Thirteenth
+
+Century Latin manuscripts. I was definitely stepping outside my comfort zone.
+
+
+The dearth of hard information about Leonardo in the historical record meant that a
+
+traditional biography was impossible—which is probably why no medieval historian had
+
+written one. To tell my story, I would have to rely heavily on the mathematical thread
+
+that connects today’s world to that of Leonardo—an approach unique to mathematics,
+
+made possible by the timeless nature of the discipline. Even so, it would be a stretch.
+
+
+In the end, I got lucky. Very lucky. And not just once, but several times. As a result of all
+
+that good fortune, when my historical account The Man of Numbers: Fibonacci’s Arithmetic Revolution was published in 2011, I was able to compensate for the
+
+unavoidable paucity of information about Leonardo’s life with the first-ever account of
+
+the seminal discovery showing that my medieval role-model expositor had indeed
+
+played the pivotal role in creating the modern world that most historians had
+
+hypothesized.
+
+
+With my Leonardo project such a new and unfamiliar genre, I decided from the start to
+
+keep a diary of my progress. Not just my findings, but also my experiences, the project's
+
+highs and lows, the false starts and disappointments, the tragedies and unexpected
+
+turns, the immense thrill of holding in my hands seminal manuscripts written in the
+
+thirteenth and fourteenth centuries, and one or two truly hilarious episodes. I also
+
+encountered, and made diary entries capturing my interactions with, a number of
+
+remarkable individuals who, each for their own reasons, had become fascinated by
+
+Fibonacci—the Yale professor who traced modern finance back to Fibonacci, the Italian
+
+historian who made the crucial archival discovery that brought together all the threads of
+
+Fibonacci's astonishing story, and the remarkable widow of the man who died shortly
+
+after completing the world’s first, and only, modern language translation of Liber abbaci,
+
+who went to heroic lengths to rescue his manuscript and see it safely into print.
+
+
+After I had finished the Man of Numbers, I decided that one day I would take my diary
+
+and turn it into a book, telling the story of that small group of people (myself included)
+
+who had turned an interest in Leonardo into a passion, and worked long and hard to
+
+ensure that Leonardo Fibonacci of Pisa will forever be regarded as among the very
+
+greatest people to have ever lived. Just as The Man of Numbers was an account of the
+
+writing of Liber abbaci, so too Finding Fibonacci is an account of the writing of The Man
+
+of Numbers. [So it is a book about a book about a book. As Andrew Wiles once
+
+famously said, “I’ll stop there.”]
+
+
+This post is adapted from the introduction of Keith Devlin’s new book Finding Fibonacci:
+
+The Quest to Rediscover the Forgotten Mathematical Genius Who Changed the World,
+
+published this month by Princeton University Press.
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+11:48 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+Fibonacci,
+Leonardo of Pisa,
+mathematics outreach
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+March
+
+(1)
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

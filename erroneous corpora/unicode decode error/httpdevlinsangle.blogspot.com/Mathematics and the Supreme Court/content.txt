@@ -1,0 +1,2413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: Mathematics and the Supreme Court
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, November 16, 2017
+
+
+
+
+
+
+
+Mathematics and the Supreme Court
+
+
+
+
+
+American courts have never appeared to be very receptive to mathematical arguments,
+in large part, some (including me) have assumed, because many judges do not feel
+confident evaluating mathematical reasoning and, in the case of jury trials, no doubt
+because they worry that unscrupulous, math-savvy lawyers could use formulas and
+statistics to fool jury members. There certainly have been some egregious examples of
+this, particularly when bogus probability arguments have been presented. Indeed, one
+classic misuse of conditional probability is now known as the “prosecutor’s fallacy."
+
+Another example where the courts have trouble with probability is in cases involving
+DNA profiling, particularly Cold Hit cases, where a DNA profile match is the only hard
+evidence against a suspect. I myself have been asked to provide expert testimony in
+some such cases, and I wrote about the issue in this column in September and October
+of 2006.
+
+
+In both kinds of case, the courts have good reason to proceed with caution. The
+prosecutor’s fallacy is an easy one to fall into, and with Cold Hit DNA identification there
+is a real conflict between frequentist and Bayesian probability calculations. In neither
+case, however, should the courts try to avoid the issue. When evidence is presented,
+the court needs to have as accurate an assessment as possible as to its reliability or
+veracity. That frequently has to be in the form of a probability estimate.
+
+
+Now the courts are facing another mathematical conundrum. And this time, the case
+has landed before the US Supreme Court. It is a case that reaches down to the very
+foundation of our democratic system: How we conduct our elections. Not how we use
+vote counts to determine winners, although that is also mathematically contentious, as I
+wrote about in this column in November of 2000, just before the Bush v Gore Presidential
+Election outcome ended up before the Supreme Court. Rather, the issue before the
+Court this time is how states are divided up into electoral districts for state elections.
+
+
+How a state carves up voters into state electoral districts can have a huge impact on the
+outcome. In six states, Alaska, Arizona, California, Idaho, Montana, and Washington,
+the apportioning is done by independent redistricting commissions. This is generally
+regarded—at least by those who have studied the issue—as the least problematic
+approach. In seven other states, Arkansas, Colorado, Hawaii, Missouri, New Jersey,
+Ohio, and Pennsylvania, politician commissions draw state legislative district maps. In
+the remaining 37 states, the state legislatures themselves are responsible for state
+legislative redistricting. And that is where the current problem arises.
+
+
+There is, of course, a powerful temptation for the party in power to redraw the electoral
+district maps to favor their candidates in the next election. And indeed, in the states
+where the legislatures draw the maps, both major political parties have engaged in that
+practice. One of the first times this occurred was in 1812, when Massachusetts
+governor Elbridge Gerry redrew district boundaries to help his party in an upcoming
+senate election. A journalist at the Boston Gazette observed that one of the contrived districts in Gerry’s new map looked like a giant salamander, and gave such partisan redistricting a name, combining Gerry and mander to create the new word gerrymander.
+Though Gerry lost his job over his sleight-of- hand, his redistricting did enable his party
+to take over the state senate. And the name stuck.
+
+
+Illegality of partisan gerrymandering is generally taken to stem from the 14th
+Amendment, since it deprives the smaller party of the equal protection of the laws, but it
+has also been argued to be, in addition, a 1st Amendment issue—namely an
+apportionment that has the purpose and effect of burdening a group of voters’
+representational rights.
+
+
+In 1986, the Supreme Court issued a ruling that partisan gerrymandering, if extreme
+enough, is unconstitutional, but it has yet to throw out a single redistricting map. In large
+part, the Supreme Court’s inclination to stay out of the redistricting issue is based on a
+recognition that both parties do it, and over time, any injustices cancel out, as least
+numerically. Historically, this was, generally speaking, true. Attempts to gerrymander
+have tended to favor both parties to roughly the same extent. But in 2012, things took a
+dramatic turn with a re-districting process carried out in Wisconsin.
+
+
+That year, the recently elected Republican state legislature released a re-districting map
+generated using a sophisticated mathematical algorithm running on a powerful
+computer. And that map was in an altogether new category. It effectively guaranteed
+Republican majorities for the foreseeable future. The Democrat opposition cried foul, a
+Federal District Court agreed with them, and a few months ago the case found its way
+to the Supreme Court.
+
+
+That the Republicans come across as the bad actors in this particular case is likely just
+an accident of timing; they happened to come to power at the very time when political
+parties were becoming aware of what could be done with sophisticated algorithms. If
+history is any guide, either one of the two main parties would have tried to exploit the
+latest technology sooner or later. In any event, with mathematics at the heart of the new
+gerrymandering technique, the only way to counter it may be with the aid of equally
+sophisticated math.
+
+
+The most common technique used to gerrymander a district is called “packing and
+cracking." In packing, you cram as many of the opposing party’s voters as possible into
+a small number of “their” districts where they will win with many more votes than
+necessary. In cracking, you spread opposing party’s voters across as many of “your”
+districts as possible so there are not enough votes in any one of those districts to ever
+win there.
+
+
+A form of packing and cracking arises naturally when better-educated liberal-leaning
+voters move into in cities and form a majority, leaving those in rural areas outnumbered
+by less-educated, more conservative-leaning voters. (This is thought to be one of the
+factors that has led to the increasing polarization in American politics.) Solving that
+problem is, of course, a political one for society as a whole, though mathematics can be
+of assistance by helping to provide good statistical data. Not so with partisan
+gerrymandering, where mathematics has now created a problem that had not arisen
+before, for which mathematics may of necessity be part of the solution.
+
+
+When Republicans won control of Wisconsin in 2010, they used a sophisticated
+computer algorithm to draw a redistricting map that on the surface appeared fair—no
+salamander-shaped districts—but in fact was guaranteed to yield a Republican majority
+even if voter preferences shifted significantly. Under the new map, in the 2012 election,
+Republican candidates won 48 percent of the vote, but 60 of the state’s 99 legislative
+seats. The Democrats’ 51 percent that year translated into only 39 seats. Two years
+later, when the Republicans won the same share of the vote, they ended up with 63
+seats—a 24-seat differential.
+
+
+Recognizing what they saw as a misuse of mathematics to undermine the basic
+principles of American democracy, a number of mathematicians around the country
+were motivated to look for ways to rectify the situation. There are really two issues to be
+addressed. One is to draw fair maps—a kind of “positive gerrymandering.” The other is
+to provide reliable evidence to show that a particular map has been intentionally drawn
+to favor one party over another, if such occurs, and moreover to do so in a way that the
+courts can understand and accept. Neither issue is easy to solve, and without
+mathematics, both are almost certainly impossible.
+
+
+For the first issue, a 2016 Supreme Court ruling gave a hint about what kind of fairness
+measure it might look kindly on: one that captures the notion of “partisan symmetry,”
+where each party has an equal opportunity to convert its votes into seats. The
+Wisconsin case now presents the Supreme Court with the second issue.
+
+
+When, last year, a Federal District Court in Wisconsin threw out the new districting map,
+they cited both the 1st and 14th Amendments. It was beyond doubt, the court held, that
+the new maps were “designed to make it more difficult for Democrats, compared to
+Republicans, to translate their votes into seats.” The court rejected the Republican
+lawmakers’ claim that the discrepancy between vote share and legislative seats was
+due simply to political geography. The Republicans had argued that Democratic voters
+are concentrated in urban areas, so their votes have an impact on fewer races, while
+Republicans are spread out across the state. But, while that is true, geography alone
+does not explain why the Wisconsin maps are so skewed.
+
+
+So, how do you tell if a district is gerrymandered? One way, that has been around for
+some time, is to look at the geographical profile. The gerrymandering score, G, is
+defined by:
+G = gP/A, where
+g: the district’s boundary length, minus natural boundaries (like coastlines and rivers)
+P: the district’s total perimeter
+A: the district’s area
+The higher the score, the wilder is the apportionment as a geographic region, and
+hence the more likely to have been gerrymandered.
+
+
+That approach is sufficiently simple and sensible to be acceptable to both society and
+the courts, but unfortunately does not achieve the desired aim of fairness. And, more to
+the point in the Wisconsin case, use of sophisticated computer algorithms can draw
+maps that have a low gerrymandering score and yet are wildly partisan.
+
+
+The Wisconsin Republicans’ algorithm searched through thousands of possible maps
+looking for one that would look reasonable according to existing criteria, but would
+favor Republicans no matter what the election day voting profile might look like. As
+such, it would be a statistical outlier. To find evidence to counter that kind of approach,
+you have to look at the results the districting produces when different voting profiles are
+fed into it.
+
+
+One promising way to identify gerrymandering is with a simple mathematical formula
+suggested in 2015, called the “efficiency gap." It was the use of this measure that
+caused, at least in part, the Wisconsin map to be struck down by the court. It is a simple
+idea—and as I noted, simplicity is an important criterion, if it is to stand a chance of
+being accepted by society and the courts.
+
+
+You can think of a single elector’s vote as being “wasted” if it is cast in a district where
+their candidate loses or it is cast in a district where their candidate would have won
+there anyway. The efficiency gap measures those “wasted” votes. For each district, you
+total up the number of votes the winning candidate receives in excess of what it would
+have taken to elect them in that district, and you total up the number of votes the losing
+candidate receives. Those are the two parties’ “wasted votes” for that district.
+
+
+You then calculate the difference between those “wasted-vote” totals for each of the two
+parties, and divide the answer by the total number of votes in the state. This yields a
+single percentage figure: the efficiency gap. If that works out to be greater than 7%,
+the systems developers suggest, the districting is unfair.
+
+
+By way of an example, let’s see what the efficiency gap will tell us about the last
+Congressional election. In particular, consider Maryland’s 6 th Congressional district,
+which was won by the Democrats. It requires 159K votes to win. In the last election,
+there were 186K Democrat votes, so 186K – 159K = 26K Democrat votes were
+“wasted,” and 133K Republican votes, all of which were “wasted.”
+
+
+In Maryland as a whole, there were 510K Democrat votes “wasted” and 789K
+Republican votes “wasted.” So, statewide, there was a net “waste” of 789K – 510K =
+279K Republican votes.
+
+
+There were 2,598M votes cast in total. So the efficiency gap is 279K/2598K = 10.7% in
+favor of the Democrats.
+
+
+I should note, however, that the gerrymandering problem is currently viewed as far more
+of a concern in state elections than in congressional races. Last year, two social scientists published the results they obtained using computer simulations to measure
+the extent of intentional gerrymandering in congressional district maps across most of
+the 50 states. They found that on the national level, it mostly canceled out between the
+parties. So banning only intentional gerrymandering would likely have little effect on the
+partisan balance of the U.S. House of Representatives. The efficiency gap did,
+however, play a significant role in the Wisconsin court’s decision.
+
+
+Another approach, developed by a team at Duke University, takes aim at the main idea
+behind the Wisconsin redistricting algorithm—searching through many thousands of
+possible maps looking for ones that met various goals set by the creators, any one of
+which would, of necessity, be a statistical outlier. To identify a map that has been
+obtained in this way, you subject it to many thousands of random tweaks. If the map is
+indeed an outlier, the vast majority of tweaks will yield a fairly unremarkable map. So,
+you compare the actual map with all those thousands of seemingly almost identical, and
+apparently reasonable, variations you have generated from it. If the actual map
+produces significantly different election results from all the others, when presented with
+a range of different statewide voting profiles, you can conclude that it is indeed an
+“outlier” — a map that could only have been chosen to deliberately subvert the
+democratic process.
+
+
+And this is where we—and the Supreme Court—are now. We have a problem for our
+democracy created using mathematics. Mathematicians looking for mathematical ways
+to solve it, and there are already two candidate “partisan gerrymandering test” in the
+arena. Historically, the Supreme Court has proven resistant to allowing math into the
+courtroom. But this time, it looks like they may have no choice. At least as long as state
+legislatures continue to draw the districting maps. Maybe the very threat of having to
+deal with mathematical formulas and algorithms will persuade the Supreme Court to
+recommend that Congress legislates to enforce all states to use independent
+commissions to draw the districting maps. Legislation under pain of math. We will know
+soon enough.
+
+
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+4:40 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+elections,
+gerrymandering,
+redistricting,
+Supreme Court,
+voting,
+Wisconsin state elections
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+November
+
+(1)
+
+Mathematics and the Supreme Court
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

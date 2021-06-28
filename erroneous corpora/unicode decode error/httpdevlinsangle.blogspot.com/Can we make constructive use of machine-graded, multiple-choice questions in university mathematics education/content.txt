@@ -1,0 +1,2323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: Can we make constructive use of machine-graded, multiple-choice questions in university mathematics education?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, March 1, 2013
+
+
+
+
+
+
+
+Can we make constructive use of machine-graded, multiple-choice questions in university mathematics education?
+
+
+
+
+
+
+
+A good metaphor for the current state of MOOC education is
+provided by this historical
+video. But when you look at those images, please remember what those events led to. Unless
+you are able to keep that history in mind, you should not at this stage get
+into the MOOC business. For there be only dragons.
+
+
+
+With the second edition of my Stanford MOOC Introduction to Mathematical
+Thinking starting this weekend on Coursera, I have once again been
+wrestling with the question of the degree to which good, effective mathematics
+learning can be achieved at scale, over the Internet.
+
+
+
+Once I had made the decision to try to take (elements of) my
+35-year-old mathematics transition course into the then emerging MOOC
+format—less than a year ago!—I was
+immediately brought face-to-face with the necessity of making use of two
+educational devices I had loathed (and never used) throughout my entire career
+in higher education:
+
+
+
+machine-graded pop quizzes
+machine-graded multiple-choice questions
+
+
+For MAA readers, I don’t think I need to explain my dislike
+for either of these über-simplistic devices, which can surely be justified in a
+regular classroom only in terms of making life easier for the instructor.
+
+
+
+Simply putting a class online does not require the use of
+either device, of course. Technologies such as video conferencing and screen
+sharing can make learning at a distance almost as good as traditional classroom
+learning, and in some circumstances can make it better in some respects. But making a class available to tens of thousands of students online
+changes everything. With such large numbers, the “class” dynamics change
+dramatically. But it’s not all for the worse.
+
+
+
+The first thing to realize is that a MOOC is in many ways
+like radio or TV. Though both of those familiar features of modern life are
+referred to as “mass media,” they are in fact highly individual. The newsreader
+on radio or TV is not addressing a large audience; she or he is talking to
+millions of single individuals. The
+secret to being good on the radio or TV is to forget the millions and think of
+just one (generic) person. After all, the listener or viewer is not in a room
+with millions of other people; in fact, if the broadcast is successful, that
+listener or viewer is cognitively in a room with
+just the presenter. The really successful radio and TV newsreaders and
+presenters are the ones who can do that really well. They create that sense
+that they are talking just to You.
+
+
+
+In my own case, I already knew that from many years of
+occasional media work, but I think all MOOC instructors come to that
+realization very quickly. When your voice, with or without your face, is in
+someone’s living room, there is a direct human connection that in important
+ways is far more intimate than is possible in a lecture hall filled with
+anything more than a handful of students.
+
+
+
+Once you realize this feature of the MOOC medium, the
+underlying pedagogic model is obvious. It’s one-on-one teaching/learning—something that in the traditional academy is (of necessity) reserved only for
+doctoral students.
+
+
+
+At which point, the appropriate use of both pop quizzes and
+multiple-choice questions starts to look feasible. (They ought to; doctoral
+advisers use both extensively, and to great positive effect, though they do not
+refer to them as such, and there is no machine-grading!)
+
+
+
+Of course, in a MOOC it remains the case that the student
+cannot communicate directly with the professor, nor can the professor see and
+comment on an individual student’s work. That means two further techniques have
+to be used as well:
+
+
+
+peer tutoring
+peer evaluation 
+
+
+In the first version of my MOOC, last September, I built the
+course around the doctoral-student education model, deliberately setting out to
+create the experience of a student sitting alongside me at my desk. (There is a
+low resolution example here.)
+
+
+
+
+But as a result of a career-long dislike of the first two
+and a deep suspicion of the fourth, I used all but the third of those auxiliary
+devices reluctantly and as little as possible. (The one I did embrace, peer
+tutoring, did not work well the way I set it up. See below for details of Attempt
+Two.) 
+
+
+
+Because of my caution, I think I avoided a fate reminiscent
+of NASA’s first attempts to launch a rocket into space. But that was a first,
+exploratory experience, and I wanted to live to try again. This time around,
+based on what I learned, I am going to use all four much more aggressively, but
+in ways I think might work. 
+
+
+
+I’ll be describing how I’ll be using them in a series of
+posts to my blog MOOCtalk.org. For a brief—and decidedly limited—foretaste, check out this video excerpt of a
+conversation my MOOC TA Paul Franz and I had recently with radio and TV
+personality Angie Coiro, host of the syndicated radio and television
+interview show In Deep.
+
+
+
+
+The goal of Version 2 of the course is not to
+reach the Moon. Chances are high that we’ll crash and burn. The goal is to at least
+get off the ground before we do, and, if we are lucky, maybe even reach the
+upper atmosphere. For sure, there will still be a long way to go.
+
+
+
+If you want to live dangerously and be part of
+this huge experiment, and if you have a Ph.D. (or pending Ph.D.) in mathematics and
+several years of college teaching behind you, I am still looking for well
+qualified volunteers to act as “Community TAs” for the course, to answer
+students' questions on the course discussion forums. So far I have 14
+volunteers, comprising 5 college professors, 3 Ph.D. students, 3
+individuals currently working in the software industry, a K-12 education
+consultant, a research laboratory scientist, and a stock analyst. If you want
+to volunteer, and have the requisite experience, please drop me an email at devlin@stanford.edu. (There is no payment
+for doing this—that includes me!) But being part of a large and truly global
+community, who come together for several weeks for the sole purpose of
+learning how to think mathematically (the course carries no college credit), is
+truly a wonderful experience.
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+9:04 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+machine grading,
+mathematical thinking,
+MOOC,
+multiple-choice questions,
+online education,
+peer evaluation,
+pop quizzes
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+March
+
+(1)
+
+Can we make constructive use of machine-graded, mu...
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

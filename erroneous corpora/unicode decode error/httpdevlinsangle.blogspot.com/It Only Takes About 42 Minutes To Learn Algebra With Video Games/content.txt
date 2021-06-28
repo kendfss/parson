@@ -1,0 +1,2327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: “It Only Takes About 42 Minutes To Learn Algebra With Video Games”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, July 2, 2013
+
+
+
+
+
+
+
+“It Only Takes About 42 Minutes To Learn Algebra With Video Games”
+
+
+
+
+
+
+When tech folk dabble in education (and tech writers cover it), the
+excess of hype is sometimes matched only by their breathtaking lack of
+knowledge about education. Even so, the above headline to the July 1 post by Forbes
+contributor Jordan Shapiro must rank as one of the most stupid and ignorant
+statements in human history. 
+
+
+
+It would be somewhat less ludicrous, though still open to debate, if
+the headline had said “learn some algebra.” But “algebra”? All of
+it?
+
+
+
+Almost certainly, Shapiro himself did not write the headline—writers
+rarely do. In fact, the article itself is fine. I have no problem with what
+Shapiro wrote. But the fact that the ludicrous headline had not been changed 24
+hours later indicates that Forbes’ editors feel happy with it. Sigh.
+
+
+
+What the article itself reports is that, on average, students who
+played a particular video game (DragonBox, of which more
+later) completed a sufficient part of it in 42 minutes. Since the game itself
+is based on algebraic principles, they could, therefore, be said to have
+engaged in algebraic thinking. (I would be inclined to say just that, though
+with any kind of machine learning—and human teaching if the instructor is not
+paying close attention—one should always be on the lookout for an instance of
+Benny’s Rules.)
+
+
+
+Whether such performance in a video game justifies saying that the
+students learned some (!) algebra in 42 minutes depends on what
+metric you use to determine what learning has taken place. 
+
+
+
+Of course, if you define algebra to be (or to include) symbolic
+manipulation, then successful completion of any video game is not going to
+count as “doing algebra.” That is why I used the term “algebraic thinking” a
+couple of paragraphs back. (See my previous blog post What is Algebra? for a
+discussion of the distinction.) But is that the appropriate measure? What do we
+want K-12 students to learn under the title “algebra”?
+
+
+
+[ASIDE: There is another definitional question as to the classification
+of DragonBox as a video game. Game developers have different views as to what
+constitutes a video game. Some would describe DagonBox as an entertaining,
+interactive, digital app, but would stop short at classifying it as a game.]
+
+
+
+Before I go any further, I should give some disclaimers. First, as
+readers of my blog profkeithdevlin.org (or my book Mathematics
+Education for a New Era) will be aware, I am a strong proponent of the
+use of video games in mathematics education. In fact, I advocate an approach to
+the design of math ed video games that definitely includes DragonBox. I’ve met
+the developer, Jean-Baptiste Huynh, and one of the co-founders of his company WeWantToKnow, and I used their game as an example in a
+feature article on math ed
+video games I wrote for American
+Scientist in March of this year. I am about three-quarters of the way
+through the second, greatly expanded version of the game, DragonBox2. Among the
+designs for math ed video games that my own company, InnerTube Games, has been working on for several years,
+are a couple that have much in common with DragonBox. (We are due to release
+our first one, Wuzzit Trouble, this summer, but chose one based on arithmetic
+and number theory to be our initial release, with algebra-based games to come
+later.) So I am not a dispassionate outsider here.
+
+
+
+For his Forbes article, Shapiro interviewed Jean-Baptiste Huynh, and
+everything the DragonBox designer says, I agree with 100%. Here is my take on
+the benefits of playing DragonBox (besides the fact that is it fun).
+
+
+
+A student who plays through the new, greatly expanded version of the
+game will undoubtedly engage in a substantial amount of (contextualized) algebraic
+thinking focused on the solution of linear equations in one variable. The score
+they obtain in the game will provide a good measure of how well they have
+mastered that form of thinking (i.e., solving single-variable linear equations).
+
+
+
+Does that mean the student can then sit down and ace a standard
+written algebra exam? Not at all. Even though the later stages of DragonBox and
+DragonBox2 involve on-screen manipulations of the standard symbolic
+representations of equations, the step from physically moving digital objects
+to manipulating symbolic expressions on a page is a much harder cognitive
+challenge than one might first think. The human mind simply finds it very
+difficult to reason in a purely abstract fashion. (In my book The Math Gene, published in
+2000, I investigated the reasons for that difficulty.)
+
+
+
+At issue is the notorious transfer problem, which, roughly
+speaking, is the difficulty humans face in taking something that has been
+learned in one context and applying it in another.
+
+
+
+Huynh is of the opinion that it requires a human teacher to help the
+student take the difficult step from completion of his game to mastery of
+symbolic algebra, and I agree with him. I suspect that not everyone will be
+able to make the transition, no matter how good the teaching, but many will. 
+
+
+
+There is certainly a lot to be gained from mastery of symbolic
+algebra. First of all, learning at that level of abstraction is readily
+applicable to any specific domain. Second, being able to reason free of the
+complexities of any application domain is extremely powerful. 
+
+
+
+On the other hand algebra (or, more accurately, algebraic thinking)
+was successfully used in commerce for many hundreds of years before the modern,
+symbolic variety was introduced in the sixteenth century. So acquiring useful
+algebra skills is not totally dependent on mastery of symbolic algebra.
+
+
+
+A major question is, will playing DragonBox increase the likelihood
+that a student will be able to master symbolic algebra, compared with a student
+who does not have that game experience? There is good reason to assume the
+answer is “Yes,” but that remains to be fully tested—something that can be
+done only now the game (and others like it) is out. (The analogous question
+remains to be answered for my own company’s forthcoming games.)
+
+
+
+My reason for suspecting that playing video games like DragonBox is
+highly beneficial in learning symbolic mathematics—the kind that is tested in
+our school system—is perhaps best explained by an analogy from Hollywood. In
+the 1984 movie The Karate Kid (I can’t bring
+myself to watch the 2010 remake) and its sequel (KK2), martial arts instructor
+Mr Miyagi prepares his
+young pupil Daniel for Karate tournaments by getting him to polish a car, sand a
+floor, catch a fly with chopsticks, and paint a fence, all of which develop the
+reflexes and muscle memory required for key Karate moves, which Daniel uses to
+great effect later in the movies.
+
+
+
+True, this is not sound educational theory, though many teachers (and
+most athletic coaches) adopt a similar approach. (This is a blog, remember, not
+a research journal.) But until we have something more concrete, the analogy
+works for me. Indeed, I am betting my company on it—as is Jean-Baptiste
+Huynh.
+
+
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+1:16 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+algebra,
+DragonBox,
+educational video games
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+July
+
+(1)
+
+“It Only Takes About 42 Minutes To Learn Algebra W...
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

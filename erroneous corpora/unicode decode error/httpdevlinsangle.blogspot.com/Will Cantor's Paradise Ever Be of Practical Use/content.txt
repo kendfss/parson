@@ -1,0 +1,2418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle:  Will Cantor’s Paradise Ever Be of Practical Use?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, June 3, 2013
+
+
+
+
+
+
+
+ Will Cantor’s Paradise Ever Be of Practical Use?
+
+
+
+
+
+We really have no way of knowing what
+early humans thought when they gazed up at the sky. Since everyday
+practical experience is, by definition, limited to a very small
+region of space and time, it requires considerable cognitive
+sophistication to conceive of something – say the night sky –
+“going on for ever,” let alone to ponder whether that means it is
+“infinite,” or indeed what “infinite” actually means.
+
+
+
+What we do know is that the ancient
+Greeks made what may have been the first substantial attempt to
+analyze the notion of infinity, with Zeno of Elea (ca 490-430 BCE) of
+particular note for his discussion of a number of (seeming) paradoxes
+that arise from the assumption that space and time are (or are not)
+infinitely divisible.
+
+
+
+Archimedes’ (ca 287-112 BCE)
+calculations of areas and volumes made implicit use
+of infinity, and from today’s perspective can be recognized as the
+forerunner of integral calculus. 
+
+
+
+
+Skillful formal –
+though by modern standards not rigorous – use of the infinitely
+large and the infinitely small was made by Isaac Newton and Gottfried
+Leibniz in their development of modern infinitesimal calculus in the seventeenth century, though it was not until the nineteenth century
+when Bernard
+Bolzano, Augustin-Louis
+Cauchy, and Karl
+Weierstrass finessed the lurking problems of infinity by means of
+the famous (and for many a first-year mathematics major, infamous)
+epsilon-delta definitions of limits and continuity.
+
+
+
+But none of these
+developments was about infinity as an entity;
+the focus rather was on the unending nature of certain processes,
+starting with counting. It was Georg
+Cantor (1845 – 1918) who really tackled infinity head on. His
+proof that the set of real numbers cannot be put into one-one
+correspondence with the natural numbers, and hence is of a larger
+order of infinitude, led to a series of papers, published in a
+remarkable ten-year period between 1874 and 1884, that formed the
+basis for modern abstract set theory, including the development of a
+fully formed arithmetical theory of infinite numbers (or
+“cardinals”).
+
+
+
+Reactions to Cantor’s revolutionary
+new ideas ranged from outraged condemnation to fulsome praise.
+Henri Poincaré called Cantor’s work a “grave disease”
+that threatened to infect mathematics, and Leopold Kronecker
+described Cantor as a “scientific charlatan” and a “corrupter
+of youth.” Ludwig Wittgenstein, writing long after Cantor's death,
+complained that mathematics had become “ridden through and through
+with the pernicious idioms of set theory,” a theory he dismissed as
+“utter nonsense,” “laughable,” and “wrong.” 
+
+
+
+
+At the other end
+of the spectrum, in 1904, in the UK the Royal
+Society awarded Cantor its highest award, the Sylvester
+Medal, and in Germany David
+Hilbert declared that “No one shall expel us from the Paradise
+that Cantor has created.”
+
+
+
+Having devoted
+the early part of my professional career to work in (infinitary) set
+theory, starting with my Ph.D. in “large cardinal theory,”
+completed in 1971, and moving on to work on alternative universes of
+sets (a particularly hot topic after Paul Cohen’s introduction of
+the method of forcing in 1963), in
+the early 1980s my interests started to shift elsewhere, to questions
+about information, communication, and human reasoning.
+
+
+
+I found myself
+temporarily back in the world of set theory and the arithmetic of
+infinite numbers recently, when I was approached by the organizers of
+the World Science Festival to
+moderate a panel discussion on the topic of infinity and a more in-depth follow-up the following day.
+
+
+
+Both discussions
+raised the question as to whether study of infinity – in particular
+the hierarchy of larger infinities that Cantor bequeathed to us –
+would ever have any practical applications. As panelist Hugh Woodin
+remarked at one point in the discussion, it is a foolish
+mathematician who declares that a particular piece of mathematics
+will not find applications. For instance, G. H. Hardy’s famous
+statement (in his book A
+Mathematician’s Apology) that his
+work in number theory would never find practical application, proved
+to be spectacularly wrong less than a century later, when number
+theory became the foundation for internet security.
+
+
+
+Hardy’s
+observation was based on his familiarity of the world he lived in, a
+world in which the World Wide Web was not even a dream. Today, we
+cannot know what the world of tomorrow will look like. On the other
+hand, whatever our children and grandchildren will take for granted,
+their world will surely be finite, which makes it unlikely that
+Cantor’s theory – and the almost a century of development in set
+theory since then – will have practical use. 
+
+
+
+
+Or does it? What
+about calculus? Infinitesimal (!) calculus not only has applications
+in the modern world, but much of the science, technology, medicine,
+and even financial structure the underpins our world depends on
+calculus for its very existence. Applications don’t get more real
+than that. 
+
+
+
+
+True, but the
+dependence on infinities you find in calculus is essentially
+asymptotic. What really drives calculus is the unending nature of
+certain processes on the natural numbers. Talk of “infinitely
+large” or “infinitely small” is little more than a manner of
+speaking. Indeed, the epsilon-delta definitions (which do not involve
+infinities or infinitesimals) are a way to formalize that manner of
+speaking, effectively eliminating any actual infinite or
+infinitesimal quantities.
+
+
+
+In contrast, much
+of the work on infinity (more precisely, infinities) carried out in
+the second half of the twentieth century (when I was working in that
+area) focused on properties of sets that made their cardinalities
+super-infinities of different orders: inaccessible cardinals, Ramsey
+cardinals, measurable cardinals, compact cardinals, supercompact
+cardinals, Woodin cardinals, and so on. Infinities which dwarfed into
+invisibility the puny cardinality of the set of natural numbers.
+Indeed, each one in that sequence dwarfed all its predecessors into
+invisibility. How could that work find an application?
+
+
+
+I’ll lay my
+cards on the table. I think the chances are that it won’t. But I don’t
+think it is impossible. Indeed, I began to suspect a possible
+application in the very domain I worked in after I left set theory.
+
+
+
+[This may of
+course be nothing more than a reflection of having at my disposal a
+large hammer which made everything look a bit like a nail. But let’s
+press on.]
+
+
+
+ 
+
+
+The post 9/11
+world saw me involved in a series of Defense Department projects the
+first being improving intelligence analysis (and the others
+essentially variants of that).
+
+
+
+In today’s
+information rich world, the major nations can be assumed to have
+access to all the information they need to predict (and hopefully
+thence prevent) the majority of terrorist attacks. The trouble is,
+the few data points which must be identified and connected together
+to determine the likelihood of a future attack are just a tiny few in
+an overwhelming ocean of data. Even in the era of cloud computing,
+identifying the key information is analogous to using the naked eye
+to find a handful of proverbial needles in a non-proverbial field of
+haystacks.
+
+
+
+To all intents
+and purposes, the available data is infinite. The only hope is to
+impose some structure on the data that makes it possible for humans
+and computers to work together on it, narrowing down the focus to the
+regions more likely to be of significance. Though modern computing
+systems can sift through massive (finite) amounts of data in a
+relatively short time, they need to be programmed, and writing those
+programs (at least, some kinds of them) will require some structure
+on those large sets of data. A possible place to find the appropriate
+structure(s) is infinitary set theory. In other words, to develop the
+appropriate structures, assume the data is infinite. View the
+infinite as a theoretical simplification of the very large finite.
+(Economists sometimes make a similar simplifying assumption about
+economies.)
+
+
+
+Do I think this
+is likely? Frankly, no. But then, neither could Hardy conceive of any
+practical application of his work in number theory. [Incidentally,
+like Hardy, I don’t think mathematics needs applications to justify
+itself. It’s just that the question of application is what this
+article is about!]
+
+
+
+The discussion
+about large cardinals you will find in those panel discussions at the
+World Science Festival might seem impossibly abstract and far removed
+from the everyday world. Indeed, it is. But the questions being
+discussed all resulted from a process of rigorous, logical
+investigation that arose directly from late nineteenth century
+attempts to understand heat flow. History tells us that what begins
+in the real world, very often ends up being used in the real world.
+
+
+
+Prediction is
+hard, particularly about the future.
+
+
+
+Incidentally, how
+did I end up working on a project for the DoD? They asked me. I might
+not be the only person to speculate about a possible use of Cantor’s
+paradise. This is your taxpayer dollars at work.
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+7:18 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+forcing,
+Georg Cantor,
+infinity,
+large cardinals,
+Paul Cohen,
+set theory,
+World Science Festival
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+June
+
+(1)
+
+Will Cantor’s Paradise Ever Be of Practical Use?
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

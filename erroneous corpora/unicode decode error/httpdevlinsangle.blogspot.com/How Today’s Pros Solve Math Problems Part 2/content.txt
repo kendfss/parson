@@ -1,0 +1,2536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: How Today’s Pros Solve Math Problems: Part 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, March 9, 2018
+
+
+
+
+
+
+
+How Today’s Pros Solve Math Problems: Part 2
+
+
+
+
+
+By Keith
+Devlin
+
+
+
+You can
+follow me on Twitter @profkeithdevlin
+
+
+
+
+CHANGE OF
+PLAN: When I wrote last month’s post, I said I would conclude the
+description of my Nueva School Course this time. But when I sat down to write up that
+concluding piece, I realized it would require not one but two further posts.
+The course itself was the third iteration of an experiment I had tried out on a
+university  class of non-science majors and an Adult Education class. This series
+of articles is my first attempt to try to describe it and articulate the
+thinking behind it. As is often the case, when you try to describe something
+new (at least it was new to me), you realize how much background experience and
+unrecognized tacit knowledge you have drawn upon. In this post, I’ll try to
+capture those contextual issues. Next month I’ll get back to the course itself.
+
+
+
+
+
+
+
+
+We all
+know that mathematics is not always easy. It requires practice,
+discipline and patience,  as do many other things in life.  And if learning math is not
+easy, it follows that teaching math is not easy either. But it
+can help both learner and teacher if they know what the end result is supposed
+to be. 
+
+
+
+In my
+experience, many learners and teachers don’t know that. In both cases, the
+reason they don’t know it is that no one has bothered to tell them. There is a
+general but unstated assumption that everyone knows why the teaching and
+learning of mathematics is obligatory in every education system in the world.
+ But do they really?
+
+
+
+There are
+two (very different) reasons for teaching and learning mathematics. 
+
+
+
+One
+reason is that it is a way of thinking that our species has developed over
+several thousand years, that provides wonderful exercise for the mind, and
+yields both challenging intellectual pleasure and rewarding aesthetic beauty to
+many who can find their way sufficiently far into it. In that respect, it is like music, drama,
+painting,  philosophy, natural sciences, and many other intellectual human
+activities. This is a perfectly valid reason to provide everyone with an
+opportunity to sample it, and make it possible for those who like what they see
+to pursue it as far as they desire. What it is not, is a valid reason for
+making learning math obligatory throughout elementary, middle, and high school
+education.
+
+
+
+The
+argument behind math’s obligatory status in education is that it is useful;
+more precisely, it is useful in the practical, everyday world. This is the view
+of mathematics I am adopting in the short series of “Devlin’s Angle” essays of
+which this is the third. (There will be one more next month. See episode 1 here and
+episode 2 here.) 
+
+
+
+Indeed, mathematics is useful in the everyday practical world. In fact, we live in an age where mathematics is more relevant to our lives than at any previous time in human history. 
+
+
+It is, then, perfectly valid to say that we force each generation of school students to
+learn math because it is a useful skill in today’s world. True, there are
+plenty of people who do just fine without having that skill, but they can do so
+only because there are enough other people around who do have it.
+
+
+
+But let’s
+take that argument a step further. How do you teach mathematics so that it prepares
+young people to use it in the world? Clearly, you start by looking at the way
+people currently use math in the world, and figure out how best to get the next
+generation to that point. (Accepting that by the time those students finish
+school, the world’s demands may have moved on a bit, so those new graduates may
+have a bit of catch up and adjustment to make.)
+
+
+
+If the
+way the professionals use math in the world changes, then the way we teach it
+should change as well.  Don’t you think? That’s
+certainly what has happened in the past.
+
+
+
+For
+instance, in the ninth century, the Arabic-Persian speaking traders around
+Baghdad developed a new, and in many instances more efficient, way to do
+arithmetic calculations at scale, by using logical reasoning rather than
+arithmetic. Their new system, which quickly became known as al-jabr
+after one of the techniques they developed to solve equations, soon found its
+way into their math teaching. 
+
+
+
+When
+Hindu-Arabic arithmetic was introduced into Europe in the thirteenth century,
+the school systems fairly quickly adopted it into their arithmetic teaching as
+well. (It took a few decades, but knowledge moved no faster than the pace of a
+packhorse back then. I tell the story of that particular mathematics-led
+revolution in my 2011 book The Man of Numbers.)
+
+
+
+The
+development of modern methods of accounting and the introduction of financial
+systems such as banks and insurance companies, which started in Italy around
+the same time, also led to new techniques being incorporated into the
+mathematical education of the next generation.
+
+
+
+Later,
+when the sixteenth century French mathematician François
+Viète introduced symbolic algebra, it too became part of the educational canon.
+
+
+
+
+In each case, those advances in mathematics were introduced
+to make mathematics more easy to use and to increase its application. There was
+never any question of “What is this good for?” People eagerly grabbed hold of
+each new development and made everyday use of it as soon as it became
+available.
+
+
+
+The rise of modern science (starting with Galileo in the seventeenth century) and later
+the Industrial Revolution in the nineteenth century, led to still more impetus
+to develop new mathematical concepts and techniques, though some of those
+developments were geared more toward particular groups of professionals.
+(Calculus, for example.)
+
+
+
+To make
+it possible for an average student or worker to make use of each new
+mathematical concept or technique, sets of formal calculating rules (algorithmic
+procedures) were developed and refined. Once mastered, these made it
+possible to make use of the new mathematics to handle—in a practical way—the
+tasks and problems of the everyday world for which those concepts and
+techniques had been developed to deal with in the first place. 
+
+
+
+As a
+result of all those advances, by the time the Baby Boomers came onto the
+educational scene in the 1950s, the curriculum of mathematical algorithms that
+were genuinely important in everyday life was fairly large. It was no longer
+possible for a student to understand all the underlying mathematical concepts
+and techniques behind the algorithms and procedures they had to learn. The best
+that they could do was master, by repetitive practice, the algorithmic
+procedures as quickly as possible and move on. [A few of us had difficulty
+doing that. We wanted to understand what was going on. By and large, we
+frustrated our teachers, who seemed to think we were simply troublesome slow
+learners. Some of us eventually learned to “play the mindless algorithm game” in
+class to pass the test, but kept struggling on our own to understand what was
+going on, setting us on a path to becoming mathematics professors in the
+1970s.] 
+
+
+
+It was
+while that Boomer generation was going through the school system that
+mathematics underwent the first step of a seismic shift that within a half of a
+century would completely revolutionize the way mathematics was done. Not the
+pure mathematics practiced by a few specialists as an art—though that too would
+be impacted by the revolution to some extent. Rather, it was mathematics-as-used-in-the-world that would be radically transformed.
+
+
+
+The first
+step of that revolution was the introduction of the electronic desktop
+calculator in 1961. Although, mechanical desktop calculators had been available
+since the turn of the Twentieth Century, by and large their use was restricted
+to specialists—often called “computers” in businesses. [I actually had a
+summer-job with British Petroleum as such a specialist in my last three years
+at high school, and it was in my final year in that job that the office I
+worked in acquired its first electronic desktop calculator and the British
+Petroleum plant bought its first digital computer, both of which I learned to
+use.] But with the increasing availability of electronic calculators, and in
+particular the introduction of pocket-sized versions in the early 1970s, their
+use in the workplace rapidly became ubiquitous. Mathematics underwent a major
+change. Humans no longer needed to do arithmetic calculations themselves, and
+professionals using arithmetic in their work no longer did.
+
+
+
+It was
+not too many years later that, one by one, electronic systems were developed
+that could execute more and more mathematical procedures and techniques, until,
+by the late 1980s, there were systems that could handle all the mathematical
+procedures that constituted the bulk of not only the school mathematics
+curriculum, but the entire undergraduate math curriculum as well. The final
+nail in the coffin of humans needing to execute mathematical procedures was the
+release of the mathematics system Mathematica in 1988, followed soon after by the
+release of Maple.
+
+
+
+In the
+scientific, industrial, engineering, and commercial worlds, each new tool was
+adopted as soon as it became available, and since the early 1990s,
+professionals using mathematical techniques to carry out real-world tasks and
+solve real-world problems have done so using tools like Mathematica, Maple,
+and a host of others that have been developed. 
+
+
+
+Simultaneously,
+colleges and universities quickly incorporated the use of those new tools into
+their teaching. And while the cost of the more extensive tools put their use beyond most schools, the graphing calculator too was quickly
+brought into the upper grades of the K-12 system, after its introduction in
+1990.
+
+
+
+Yet,
+while the pros in the various workplaces changed over to the new human-machine-symbiotic
+way of doing math with little hesitation, most educators, exhibiting very wise
+instincts, proceeded with far more caution. The first wave of humans to adopt
+the new, machine-aided approach had all learned mathematics in an age when you
+had to do everything yourself. Back then, “computers” were people. For them, it
+was easy and safe to switch to executing a few keystrokes to make a computer
+run a procedure they had carried out by hand many times themselves. But how
+does a young person growing up in this new, digital-tools-world learn how to
+use those new tools safely and effectively?
+
+
+
+To some
+extent, the answer is (and was) obvious. You teach not for smooth, proficient,
+accurate execution of procedures, but for broad, general understanding of the
+underlying mathematics. The downplay of execution and increased emphasis on
+understanding are crucial. Computers outperform us to ridiculous degrees (of
+speed, accuracy, size of dataset,  and information storage and retrieval)
+when it comes to execution of an algorithm. But they do not understand
+mathematics. They do not understand the problem you are working on. They do not
+understand the world. They don't understand anything. 
+
+
+
+People,
+on the other hand, can understand, and have a genetically inherited desire to
+do so.
+
+
+
+But just
+how do you go about teaching for the kind of understanding and
+mastery that is required for students to transition into worlds and workplaces
+dominated by a wide array of new mathematical tools, where they will encounter
+work practices that involve very little by way of hand execution of algorithms?
+
+
+
+
+We know
+so little about how people learn (though we do know a whole lot more than we
+did just a few decades ago), that most of us with a stake in the education
+business are rightly concerned about making any change that would effectively
+be a massive experiment on an entire generation. So we can, and should, expect
+small steps, particularly in systemic education.
+
+
+
+In the
+U.S., the mathematicians who developed the mathematical guidelines for the
+Common Core State Standards made a good first attempt at such a small step.
+True, it quickly ran into difficulties when it came to implementing the
+guidelines in a large and complex public educational system that is answerable
+to the public. But that is surely a temporary hiccup. Most of the problems at
+launch came from a lack of effective ways to assess the new kind of learning.
+Those problems can be and are being fixed. Which is just as well. For, although
+it’s possible to argue for tinkering with specific details of the Common Core
+State Standards guidelines, in terms of setting out a broad set of educational
+goals to aim for, there is no viable alternative first step. The pre-1970s
+educational approach is no longer an option.
+
+
+
+In the
+meantime, individual teachers at some schools (particularly, but not
+exclusively, private schools) have been trying different approaches, in some
+cases sharing their experiences on the MTBOS (Math
+Twitter Blog-O-Sphere), making use of another technological tool (social media)
+now widely available. [For a quick overview of one global initiative to support
+and promote such innovations, the OECD’s Innovative Pedagogies for Powerful
+Learning project (IPPL), see this recent article from the Brookings Institution.] 
+
+
+
+The
+mini-course I gave at Nueva School in the San Francisco Bay Area last January,
+which I talked about in the first of this short series of essays, is one such experiment in teaching
+mathematics in a way that best prepares the next generation for the world they
+will live and work in after graduation. I tested it first with a class of
+non-science majors in Princeton in the fall of 2015 and then again with an
+Adult Education class at Stanford in the fall of 2017. The Nueva School class
+was its third outing.
+
+
+
+With the
+above backstory now established, next month I will describe that course and talk about how today’s pros “do the math”.
+(Again, let me stress, I am not talking here about “pure math”, the academic
+discipline carried out by professional mathematicians in universities and a few
+think tanks. My focus here is on using math in the everyday world.)
+
+
+
+In the
+meantime, I’ll leave you with a simple arithmetic problem that I will discuss
+in detail next time. 
+
+
+
+It comes
+with two instructions:
+
+
+
+Solve
+     it as quickly as you can, in your head if possible. Let your mind jump
+     to the answer.
+Then,
+     and only then, reflect on your answer, and how you got
+     it.
+
+
+
+
+The goal
+here is not to get the right answer, though a great many of you will. Rather,
+the issue is how do our minds work, and how can we make our thinking more
+effective in a world where machines execute all the mathematical procedures for
+us?
+
+
+Ready for the problem? Here it is. 
+
+
+
+PROBLEM:
+A bat and a ball cost $1.10. The bat costs $1 more than the ball. How much does
+the ball cost on its own? (There is no special pricing deal.)
+
+
+
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+12:19 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+March
+
+(1)
+
+How Today’s Pros Solve Math Problems: Part 2
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

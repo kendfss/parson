@@ -1,0 +1,2428 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: The Power of Simple Representations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, July 13, 2017
+
+
+
+
+
+
+
+
+The Power of Simple Representations
+
+
+
+
+
+The great mathematician Karl Freidrich Gauss is frequently quoted as saying “What we need are
+
+notions, not notations.” [In “About the proof of Wilson's theorem,” Disquisitiones
+
+Arithmeticae (1801), Article 76.]
+
+
+While most mathematicians would agree that Gauss was correct in pointing out that concepts,
+
+not symbol manipulation, are at the heart of mathematics, his words do have to be properly
+
+interpreted. While a notation does not matter, a representation can make a huge difference. The
+
+distinction is that developing or selecting a representation for a particular mathematical concept
+
+(or notion) involves deciding which features of the concept to capture.
+
+
+For example, the form of the ten digits 0, 1, … , 9 does not matter (as long as they are readily
+
+distinguishable), but the usefulness of the Hindu-Arabic number system is that it embodies base-
+
+10 place-value representation of whole numbers. Moreover, it does so in a way that makes both
+
+learning and using Hindu-Arabic arithmetic efficient.
+
+
+Likewise, the choice of 10 as the base is optimal for a species that has highly manipulable hands
+
+with ten digits. Although the base-10 arithmetic eventually became the standard, other systems
+
+were used in different societies, but they too evolved from the use of the hands and sometimes
+
+the feet for counting: base-12 (where finger-counting used the three segments of each of the four
+
+fingers) and base-20 where both fingers and toes were used. Base-12 arithmetic and base-20
+
+arithmetic both remained in regular use in the monetary system in the UK when I was a child
+
+growing up there, with 12 pennies giving one shilling and 20 shillings one pound. And several
+
+languages continue to carry reminders of earlier use of both bases — English uses phrases such
+
+as “three score and ten” to mean 70 (= 3x20 + 10) and French articulates 85 as “quatre-vingt cinq
+
+(4x20 + 5).
+
+
+Another number system we continue to use today is base-60, used in measuring time (seconds
+
+and minutes) and in circular measurement (degrees in a circle). Presumably the use of 60 as a
+
+base came from combining the finger and toes bases 10, 12, and 20, allowing for all three to be
+
+used as most convenient.
+
+
+These different base-number representation systems all capture features that make them useful to
+
+humans. Analogously, digital computers are designed to use binary arithmetic (base 2), because
+
+that aligns naturally with the two states of an electronic gate (open or closed, on or off).
+
+
+In contrast, the shapes of the Hindu-Arabic numerals is an example of a superfluous feature of
+
+the representation. The fact that it is possible to draw the numerals in a fashion whereby each
+
+digit has the corresponding number of angles, like this
+
+
+may be a historical echo of the evolution of the symbols, but whether or not that is the case (and
+
+frankly I find it fanciful), it is of no significance in terms of their use—the form of the numerals
+
+is very much in Gauss’s “unimportant notations” bucket.
+
+
+On the other hand, the huge difference a representation system can make in mathematics is
+
+indicated by the revolutionary change in human life that was brought about by the switch from
+
+Roman numerals and abacus-board calculation to Hindu-Arabic arithmetic in Thirteenth Century
+
+Europe, as I described in my 2011 book The Man of Numbers.
+
+
+Of course, there is a sense in which representations do not matter to mathematics. There is a
+
+legitimate way to understand Gauss’s remark as a complete dismissal of how we represent
+
+mathematics on a page. The notations we use provide mental gateways to the abstract notions of
+
+mathematics that live in our minds. The notions themselves transcend any notations we use to
+
+denote them. That may, in fact, have been how Gauss intended his reply to be taken, given the
+
+circumstances.
+
+
+But when we shift our attention from mathematics as a body of eternal, abstract structure
+
+occupying a Platonic realm, to an activity carried out by people, then it is clear that notations
+
+(i.e., a representation system) are important. In the early days of Category Theory, some
+
+mathematicians dismissed it as “abstract nonsense” or “mere diagram chasing”, but as most of us
+
+discovered when we made a serious attempt to get into the subject, “tracing the arrows” in a
+
+commutative diagram can be a powerful way to approach and understand a complex structure.
+
+[Google “the snake lemma”. Even better, watch actress Jill Clayburgh explain it to a graduate
+
+math class in an early scene from the 1980s movie It’s My Turn.]
+
+
+A well-developed mathematical diagram can also be particularly powerful in trying to
+
+understand complex real-world phenomena. In fact, I would argue that the use of mathematical
+
+representations as a tool for highlighting hidden abstract structure to help us understand and
+
+operate in our world is one of mathematics most significant roles in society, a use that tends to
+
+get overlooked, given our present day focus on mathematics as a tool for “getting answers.”
+
+Getting an answer is frequently the end of a process of thought; gaining new insight and
+
+understanding is the start of a new mental journey.
+
+
+A particularly well known example of such use are the Feynmann Diagrams, simple
+
+visualizations to help physicists understand the complex behavior of subatomic particles,
+
+introduced by the American physicist Richard Feynmann in 1948.
+
+
+
+
+
+
+A more recent example that has proved useful in linguistics, philosophy, and the social sciences
+
+is the “completion diagram” developed by the American mathematician Jon Barwise in
+
+collaboration with his philosopher collaborator John Perry in the early 1980s, initially to
+
+understand information flow.
+
+
+
+
+
+A discussion of one use of this diagram can be found in a survey article I wrote in the volume
+
+Handbook of the History of Logic, Volume 7, edited by Dov Gabbay and John Woods (Elsevier,
+
+2008, pp.601-664), a manuscript version of which can be found on my Stanford homepage. That
+
+particular application is essentially the original one for which the diagram was introduced, but
+
+the diagram itself turned out be to be applicable in many domains, including improving
+
+workplace productivity, intelligence analysis, battlefield command, and mathematics education.
+
+(I worked on some of those applications myself; some links to publications are on my
+
+homepage.)
+
+
+To be particularly effective, a representation needs to be simple and easy to master. In the case of
+
+a representational diagram, like the Commutative Diagrams of Category Theory, the Feynmann
+
+Diagram in physics, and the Completion Diagram in social science and information systems
+
+development, the representation itself is frequently so simple that it is easy for domain experts to
+
+dismiss them as little more than decoration. (For instance, the main critics of Category Theory in
+
+its early days were world famous algebraists.) But the mental clarity such diagrams can bring to
+
+a complex domain can be highly significant, both for the expert and the learner.
+
+
+In the case of the Completion Diagram, I was a member of the team at Stanford that led the
+
+efforts to develop an understanding of information that could be fruitful in the development of
+
+information technologies. We had many long discussions about the most effective way to view
+
+the domain. That simple looking diagram emerged from a number of attempts (over a great many
+
+months) as being the most effective.
+
+
+Given that personal involvement, you would have thought I would be careful not to dismiss a
+
+novel representation I thought was too simple and obvious to be important. But no. When you
+
+understand something deeply, and have done so for many years, you easily forget how hard it
+
+can be for a beginning learner. That’s why, when the MAA’s own James Tanton told me about
+
+his “Exploding Dots” idea some months ago, my initial reaction was “That sounds cute," but I did
+
+not stop and reflect on what it might mean for early (and not so early) mathematics education.
+
+
+To me, and I assume to any professional mathematician, it sounds like the method simply adds a
+
+visual element on paper (or a board) to the mental image of abstract number concepts we already
+
+have in our minds. In fact, that is exactly what it does. But that’s the point! “Exploding Dots”
+
+does nothing for the expert. But for the learner, it can be huge. It does nothing for the expert
+
+because it represents on a page what the expert has in their mind. But that is why it can be so
+
+effective in assisting a learner arrive at that level of understanding! All it took to convince me
+
+was to watch Tanton’s lecture video on Vimeo. Like Tanton, and I suspect almost all other
+
+mathematicians, it took me many years of struggle to go beyond the formal symbol manipulation
+
+of the classical algorithms of arithmetic (developed to enable people to carry our calculations
+
+efficiently and accurately in the days before we had machines to do it for us) until I had created
+
+the mental representation that the exploding dots process capture so brilliantly. Many learners
+
+subjected to the classical teaching approach never reach that level of understanding; for them,
+
+basic arithmetic remains forever a collection of incomprehensible symbolic incantations.
+
+
+Yes, I was right in my original assumption that there is nothing new in exploding dots. But I was
+
+also wrong in concluding that there was nothing new. There is no contradiction here.
+
+Mathematically, there is nothing new; it’s stuff that goes back to the first centuries of the First
+
+Millennium—the underlying idea for place-value arithmetic. Educationally, however, it’s a big
+
+deal. A very big deal. Educationally explosive, in fact. Check it out!
+
+
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+12:18 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+Exploding dots,
+Hindu-arabic arithmetic,
+James Tanton,
+mathematics education,
+place-value arithmetic,
+visual representations
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+July
+
+(1)
+
+The Power of Simple Representations
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

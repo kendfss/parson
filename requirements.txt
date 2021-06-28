@@ -1,0 +1,7 @@
+m3ta
+nltk
+pyperclip
+refactor1
+strings
+structures
+tqdm

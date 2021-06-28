@@ -1,0 +1,2577 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle: So THAT’s what it means? Visualizing the Riemann Hypothesis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pages
+
+
+
+Home
+
+
+Comment Policy  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday, January 6, 2017
+
+
+
+
+
+
+
+
+So THAT’s what it means? Visualizing the Riemann Hypothesis
+
+
+
+
+
+Two years ago, there was a sudden, viral spike in online discussion of the Ramanujan
+
+identity
+
+
+1 + 2 + 3 + 4 + 5 + . . . = –1/12
+
+
+This identity had been lying around in the mathematical literature since the famous
+
+Indian mathematician Srinivasa Ramanujan included it in one of his books in the early
+
+Twentieth Century, a curiosity to be tossed out to undergraduate mathematics students
+
+in their first course on complex analysis (which was my first exposure to it), and
+
+apparently a result that physicists made actual (and reliable) use of.
+
+
+The sudden explosion of interest was the result of a video posted online by Australian
+
+video journalist Brady Haran on his excellent Numberphile YouTube channel. In it,
+
+British mathematician and mathematical outreach activist James Grime moderates as
+
+his physicist countrymen Tony Padilla and Ed Copeland of the University of Nottingham
+
+explain their “physicists’ proof” of the identity.
+
+
+In the video, Padilla and Copeland manipulate infinite series with the gay abandon
+
+physicists are wont to do (their intuitions about physics tends to keep them out of
+
+trouble), eventually coming up with the sum of the natural numbers on the left of the
+
+equality sign and –1/12 on the right.
+
+
+Euler was good at doing that kind of thing too, so mathematicians are hesitant to trash
+
+it, rather noting that it “lacks rigor” and warning that it would be dangerous in the hands
+
+of a lesser mortal than Euler.
+
+
+In any event, when it went live on January 9, 2014, the video and the result (which to
+
+most people was new) exploded into the mathematically-curious public consciousness,
+
+rapidly garnering hundreds of thousands of hits. (It is currently approaching 5 million in
+
+total.) By February 3, interest was high enough for The New York Times to run a
+
+substantial story about the “result”, taking advantage of the presence in town of
+
+Berkeley mathematician Ed Frenkel, who was there to promote his new book Love and
+
+Math, to fill in the details.
+
+
+Before long, mathematicians whose careers depended on the powerful mathematical
+
+technique known as analytic continuation were weighing in, castigating the two
+
+Nottingham academics for misleading the public with their symbolic sleight-of- hand, and
+
+trying to set the record straight. One of the best of those corrective attempts was
+
+another Numberphile video, published on March 18, 2014, in which Frenkel give a
+
+superb summary of what is really going on.
+
+
+A year after the initial flair-up, on January 11, 2015, Haran published a blogpost
+
+summarizing the entire episode, with hyperlinks to the main posts. It was quite a story.
+
+[[ASIDE: The next few paragraphs may become a bit too much for casual readers, but
+
+my discussion culminates with a link to a really cool video, so keep going. Of course,
+
+you could just jump straight to the video, now you know it’s coming, but without some
+
+preparation, you will soon get lost in that as well! The video is my reason for writing this
+
+essay.]]
+
+
+For readers unfamiliar with the mathematical background to what does, on the face of it,
+
+seem like a completely nonsensical result, which is the MAA audience I am aiming this
+
+essay at (principally, undergraduate readers and those not steeped in university-level
+
+math), it should be said that, as expressed, Ramanujan’s identity is nonsense. But not
+
+because of the -1/12 on the right of the equals sign. Rather, the issue lies in those three
+
+dots on the left. Not even a mathematician can add up infinitely many numbers.
+
+
+What you can do is, under certain circumstances, assign a meaning to an expression
+
+such as
+
+
+X1 + X2 + X3 + X4 + …
+
+
+where the XN are numbers and the dots indicate that the pattern continues for ever.
+
+Such expressions are called infinite series.
+
+
+For instance, undergraduate mathematics students (and many high school students)
+
+learn that, provided X is a real number whose absolute value is less than 1, the infinite
+
+series
+
+
+1 + X + X2 + X3 + X4 + …
+
+
+can be assigned the value 1/(1 – X). Yes, I meant to write “can be assigned”. Since the
+
+rules of real arithmetic do not extend to the vague notion of an “infinite sum”, this has to
+
+be defined. Since we are into the realm of definition here, in a sense you can define it to
+
+be whatever you want. But if you want the result to be meaningful and useful (useful in,
+
+say, engineering or physics, to say nothing of the rest of mathematics), you had better
+
+define it in a way that is consistent with that “rest of mathematics.” In this case, you
+
+have only one option for your definition. A simple mathematical argument (but not the
+
+one you can find all over the web that involves multiplying the terms in the series by X,
+
+shifting along, and subtracting—the rigorous argument is a bit more complicated than
+
+that, and a whole lot deeper conceptually) shows that the value has to be 1/(1 – X).
+
+
+So now we have the identity
+
+
+(*) 1 + X +X2 + X3 + X4 + … = 1/(1 – X)
+
+
+which is valid (by definition) whenever X has absolute value less than 1. (That absolute
+
+value requirement comes in because of that “bit more complicated” aspect of the
+
+rigorous argument to derive the identity that I just mentioned.)
+
+
+“What happens if you put in a value of X that does not have absolute value less than 1?”
+
+you might ask. Clearly, you cannot put X = 1, since then the right-hand side becomes
+
+1/0, which is totally and absolutely forbidden (except when it isn’t, which happens a lot
+
+in physics). But apart from that one case, it is a fair question. For instance, if you put X =
+
+2, the identity (*) becomes
+
+
+1 + 2 + 4 + 8 + 16 + … = 1/(1 – 2) = 1/(–1) = –1
+
+
+So you could, if you wanted, make the identity (*) the definition for what the infinite sum
+
+
+1 + X + X2 + X3 + X4 + …
+
+
+means for any X other than X = 1. Your definition would be consistent with the value
+
+you get whenever you use the rigorous argument to compute the value of the infinite
+
+series for any X with absolute value less than 1, but would have the “benefit” of being
+
+defined for all values of X apart from one, let us call it a “pole”, at X = 1.
+
+
+This is the idea of analytic continuation, the concept that lies behind Ramanujan’s
+
+identity. But to get that concept, you need to go from the real numbers to the complex
+
+numbers.
+
+
+In particular, there is a fundamental theorem about differentiable functions (the accurate
+
+term in this context is analytic functions) of a single complex variable that says that if
+
+any such function has value zero everywhere on a nonempty disk in the complex
+
+plane, no matter how small the diameter of that disk, then the function is zero
+
+everywhere. In other words, there can be no smooth “hills” sitting in the middle of flat
+
+plains, or even one small flat clearing in the middle of a “hilly” landscape—the quotes
+
+are because we are beyond simple visualization here.
+
+
+An immediate consequence of this theorem is that if you pull the same continuation
+
+stunt as I just did for the series of integer powers, where I extended the valid formula (*)
+
+for the sum when X is in the open unit interval to the entire real line apart from one pole
+
+at 1, but this time do it for analytic functions of a complex variable, then if you get an
+
+answer at all (i.e., a formula), it will be unique. (Well, no, the formula you get need not
+
+be unique, rather the function it describes will be.)
+
+
+In other words, if you can find a formula that describes how to compute the values of a
+
+certain expression for a disk of complex numbers (the equivalent of an interval of the
+
+real line), and if you can find another formula that works for all complex numbers and
+
+agrees with your original formula on that disk, then your new formula tells you the right
+
+way to calculate your function for any complex number. All this subject to the
+
+requirement that the functions have to be analytic. Hence the term “analytic
+
+continuation.'
+
+
+For a bit more detail on this, check out the Wikipedia explanation or the one on Wolfram Mathworld. If you find those explanations are beyond you right now, just remember that
+
+this is not magic and it is not a mystery. It is mathematics. The thing you need to bear in
+
+mind is that the complex numbers are very, very regular. Their two-dimensional
+
+structure ties everything down as far as analytic functions are concerned. This is why
+
+results about the integers such as Fermat’s Last Theorem are frequently solved using
+
+methods of Analytic Number Theory, which views the integers as just special kinds of
+
+complex numbers, and makes use of the techniques of complex analysis.
+
+
+Now we are coming to that video. When I was a student, way, way back in the 1960s,
+
+my knowledge of analytic continuation followed the general path I just outlined. I was
+
+able to follow all the technical steps, and I convinced myself the results were true. But I
+
+never was able to visualize, in any remotely useful sense, what was going on.
+
+
+In particular, when our class came to study the (famous) Riemann zeta function, which
+
+begins with the following definition for real numbers S bigger than 1:
+
+
+(**) Zeta(S) = 1 + 1/2S + 1/3S + 1/4S + 1/5S + …
+
+
+I had no reliable mental image to help me understand what was going on. For integers
+
+S greater than 1, I knew what the series meant, I knew that it summed (converged) to a
+
+finite answer, and I could follow the computation of some answers, such as Euler’s
+
+
+Zeta(2) = π2/6
+
+
+(You get another expression involving π for S = 4, namely π4/90.)
+
+
+It turns out that the above definition (**) will give you an analytic function if you plug in
+
+any complex number for S for which the real part is bigger than 1. That means you have
+
+an analytic function that is rigorously defined everywhere on the complex plane to the
+
+right of the line x = 1.
+
+
+By some deft manipulation of formulas, it’s possible to come up with an analytic
+
+continuation of the function defined above to one defined for all complex numbers
+
+except for a pole at S = 1. By that basic fact I mentioned above, that continuation is
+
+unique. Any value it gives you can be taken as the right answer.
+
+
+In particular, if you plug in S = –1, you get
+
+
+Zeta(–1) = –1/12
+
+
+That equation is totally rigorous, meaningful, and accurate.
+
+
+Now comes the tempting, but wrong, part that is not rigorous. If you plug in S = –1 in the
+
+original infinite series, you get
+
+
+1 + 1/2-1 + 1/3-1 + 1/4-1 + 1/5-1 + …
+
+
+which is just
+
+
+1 + 2 + 3 + 4 + 5 + …
+
+
+and it seems you have shown that
+
+
+1 + 2 + 3 + 4 + 5 + . . . = –1/12
+
+
+The point is, though, you can’t plug S = –1 into that infinite series formula (**). That
+
+formula is not valid (i.e., it has no meaning) unless S > 1.
+
+
+So the only way to interpret Ramanujan’s identity is to say that there is a unique analytic
+
+function, Zeta(S), defined on the complex plane (apart from at the real number 1), which
+
+for all real numbers S greater than 1 has the same values as the infinite series (**), which
+
+for S = –1 gives the value Zeta(–1) = –1/12.
+
+
+Or, to put it another way, more fanciful but less accurate, if the sum of all the natural
+
+numbers were to suddenly find it had a finite answer, that answer could only be –1/12.
+
+
+As I said, when I learned all this stuff, I had no good mental images. But now, thanks to
+
+modern technology, and the creative talent of a young (recent) Stanford mathematics
+
+graduate called Grant Sanderson, I can finally see what for most of my career has been
+
+opaque. On December 9, he uploaded this video onto YouTube.
+
+
+
+
+
+It is one of the most remarkable mathematics videos I have ever seen. Had it been
+
+available in the 1960s, my undergraduate experience in my complex analysis class
+
+would have been so much richer for it. Not easier, of that I am certain. But things that
+
+seemed so mysterious to me would have been far clearer. Not least, I would not have
+
+been so frustrated at being unable to understand how Riemann, based on hardly any
+
+numerical data, was able to formulate his famous hypothesis, finding a proof of which is
+
+agreed by most professional mathematicians to be the most important unsolved
+
+problem in the field.
+
+
+When you see (in the video) what looks awfully like a gravitational field, pulling the
+
+zeros of the Zeta function towards the line x = 1/2, and you know that it is the only such
+
+gravitational field there is, and recognize its symmetry, you have to conclude that the
+
+universe could not tolerate anything other than all the zeros being on that line.
+
+
+Having said that, it would, however, be really interesting if that turned out not to be the
+
+case. Nothing is certain in mathematics until we have a rigorous proof.
+
+
+Meanwhile, do check out some of Grant’s other videos. There are some real gems!
+
+
+
+
+
+
+Posted by
+
+
+
+Mathematical Association of America
+
+
+
+
+at
+
+12:02 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+
+
+
+
+Labels:
+analytic continuation,
+analytic functions,
+complex numbers,
+Grant Sanderson,
+infinite series,
+infinite sums,
+mathematics visualization,
+Numberphile,
+Riemann’s Hypothesis,
+Zeta function
+
+
+
+
+
+
+
+
+
+
+No comments:
+
+
+
+
+
+Post a Comment
+
+
+
+
+
+
+
+Newer Post
+
+
+Older Post
+
+Home
+
+
+
+
+Subscribe to:
+Post Comments (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devlin's Angle
+
+Mathematician Keith Devlin is the Executive Director of the Human-Sciences and Technologies Advanced Research Institute (H-STAR) at Stanford University and The Math Guy on NPR's Weekend Edition.His most recent books are Introduction to Mathematical Thinking, Mathematics Education for a New Era: Video Games as a Medium for Learning (AK Peters/CRC Press), The Man of Numbers: Fibonacci's Arithmetic Revolution (Walker & Co), and an e-book short Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years.Contact.Devlin's Angle is a monthly column sponsored by the Mathematical Association of America. Find more columns here.This column does not reflect an official position of the Mathematical Association of America.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+Mathematical Association of America
+MAA Columns
+Devlin at Stanford
+ProfKeithDevlin Blog
+Devlin on The Huffington Post
+Amazon
+Barnes & Noble
+Devlin on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Blog Archive
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2019
+
+(1)
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2018
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(2)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+2017
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ▼ 
+      
+
+
+
+January
+
+(1)
+
+So THAT’s what it means? Visualizing the Riemann H...
+
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2016
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2015
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2014
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2013
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2012
+
+(12)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+July
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+June
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+May
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+April
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+March
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+February
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+January
+
+(1)
+
+
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+2011
+
+(5)
+
+
+
+
+
+        ► 
+      
+
+
+
+December
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+November
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+October
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+September
+
+(1)
+
+
+
+
+
+
+
+        ► 
+      
+
+
+
+August
+
+(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Books
+
+
+
+
+
+Finding Fibonacci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to Mathematical Thinking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Education for a New Era: Video Games as a Medium for Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Man of Numbers: Fibonacci's Arithmetic Revolution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonardo and Steve: The Young Genius Who Beat Apple to Market by 800 Years
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All the Math That's Fit to Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe To
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+                  Atom
+                
+
+
+
+
+
+
+
+
+
+
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow by Email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Me
+
+
+
+
+
+Mathematical Association of America
+
+
+The Mathematical Association of America is the world's largest community of mathematicians, students, and enthusiasts. We accelerate the understanding of our world through mathematics, because mathematics drives society and shapes our lives. Visit us at maa.org.
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple theme. Powered by Blogger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
